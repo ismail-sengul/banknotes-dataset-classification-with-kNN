@@ -1,0 +1,14 @@
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\obj\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.csprojAssemblyReference.cache
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\obj\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\obj\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.AssemblyInfoInputs.cache
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\obj\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.AssemblyInfo.cs
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\obj\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.csproj.CoreCompileInputs.cache
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\bin\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.exe
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\bin\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.deps.json
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\bin\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.runtimeconfig.json
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\bin\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.runtimeconfig.dev.json
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\bin\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.dll
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\bin\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.pdb
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\obj\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.dll
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\obj\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.pdb
+C:\Users\issen\source\repos\kNN-for-banknotes-dataset\kNN-for-banknotes-dataset\obj\Debug\netcoreapp3.1\kNN-for-banknotes-dataset.genruntimeconfig.cache

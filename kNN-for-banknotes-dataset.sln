@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kNN-for-banknotes-dataset", "kNN-for-banknotes-dataset\kNN-for-banknotes-dataset.csproj", "{53FB2D5A-E5A4-4031-9A97-91E03EC675B5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53FB2D5A-E5A4-4031-9A97-91E03EC675B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FB2D5A-E5A4-4031-9A97-91E03EC675B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FB2D5A-E5A4-4031-9A97-91E03EC675B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FB2D5A-E5A4-4031-9A97-91E03EC675B5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D77E8644-9913-4F62-BCAE-57D490344A68}
+	EndGlobalSection
+EndGlobal
